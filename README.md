@@ -58,3 +58,7 @@ The solution to this problem is 8
 This calculator is a simple demonstration and does not handle advanced cases or errors extensively. It is intended for educational purposes and as a starting point for building more robust calculator applications. Feel free to extend and improve it as needed.
 
 Enjoy using the Simple Calculator!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
